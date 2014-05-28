@@ -72,6 +72,7 @@ public class Problems {
         kthMin(3, bla);
         getAverage(bla);
         // System.out.println(getAverage(bla));
+        //Promenqm neshto
         
         System.out.println(min());
     }
