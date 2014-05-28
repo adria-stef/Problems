@@ -73,7 +73,7 @@ public class Problems {
         getAverage(bla);
         // System.out.println(getAverage(bla));
         //Promenqm neshto
-        //second change
+       
         System.out.println("hello");
         System.out.println(min());
     }
